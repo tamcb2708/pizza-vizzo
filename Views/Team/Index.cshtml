@@ -1,0 +1,80 @@
+﻿@{
+
+    Layout = "~/Views/Shared/_TLayout.cshtml";
+    var Ourchef = (List<webMVC1.EF.OurChefs>)ViewBag.ourchef;
+}
+
+
+<!-- Start Page Banner -->
+<div class="page-title-area item-bg4">
+    <div class="d-table">
+        <div class="d-table-cell">
+            <div class="container">
+                <div class="page-title-content">
+                    <h2>Team</h2>
+                    <ul>
+                        <li>
+                            <a href="index">Home</a>
+                        </li>
+                        <li>Team</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Page Banner -->
+<!-- Start Team Area -->
+<section class="team-area bg-ffffff pt-100 pb-70">
+    <div class="container">
+        <div class="section-title">
+            <h2>Our Chefs</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+
+        <div class="row">
+            @foreach (var item in Ourchef)
+            {
+
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-team">
+                        <div class="image">
+                            <img src="/Content/User/assets/img/team/@item.Image" alt="image">
+
+                            <ul class="social">
+                                <li>
+                                    <a href="@item.LinkFb" target="_blank">
+                                        <i class="lab la-facebook-f"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="@item.LinkSwithter" target="_blank">
+                                        <i class="lab la-twitter"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="@item.LinkInstagam" target="_blank">
+                                        <i class="lab la-instagram"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="@item.LinkInstagam" target="_blank">
+                                        <i class="lab la-linkedin-in"></i>
+                                    </a>
+                                </li>
+                            </ul>
+
+                            <div class="content">
+                                <h3>@item.Name</h3>
+                                <span>@item.office</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+    </div>
+</section>
+<!-- End Team Area -->
