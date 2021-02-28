@@ -1,0 +1,89 @@
+﻿@model List<webMVC1.EF.Menu>
+
+@section jsFooter{
+    <script src="/Content/User/assets/js/controller/TagController.js"></script>
+}
+<!-- Start Footer Area -->
+<div class="footer-area pt-100 pb-70">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-sm-6">
+                <div class="single-footer-widget">
+                    <div class="logo">
+                        <h2>
+                            <a href="/">Vizo</a>
+                        </h2>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida Risus commodo maecenas.</p>
+                    <ul class="social">
+                        <li>
+                            <a href="https://www.facebook.com/profile.php?id=100035884935308" class="facebook" target="_blank">
+                                <i class="lab la-facebook-f"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/profile.php?id=100035884935308" class="twitter" target="_blank">
+                                <i class="lab la-twitter"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/profile.php?id=100035884935308" class="pinterest" target="_blank">
+                                <i class="lab la-pinterest-p"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/profile.php?id=100035884935308" class="linkedin" target="_blank">
+                                <i class="lab la-linkedin-in"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            @{
+                Html.RenderAction("Tag", "defalts");
+            }
+
+            <div class="col-lg-3 col-sm-6">
+                <div class="single-footer-widget pl-5">
+                    <h3>Quick Links</h3>
+
+                    <ul class="quick-links">
+                        @foreach (var item in Model)
+                        {
+                            <li>
+                                <i class="las la-angle-double-right"></i>
+                                <a href="@item.Link" target="@item.Target">@item.Text</a>
+                            </li>
+                        }
+
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-sm-6">
+                <div class="single-footer-widget">
+                    <h3>Information</h3>
+                    <ul class="footer-contact-info">
+                        <li>
+                            <i class="las la-phone"></i>
+                            <span>Phone</span>
+                            <a href="tel:0355978258">0355-978-258</a>
+                        </li>
+                        <li>
+                            <i class="las la-envelope"></i>
+                            <span>Email</span>
+                            <a href="mailto:tamcb2708@gmail.com">tamcb2708@gmail.com</a>
+                        </li>
+                        <li>
+                            <i class="las la-map-marker-alt"></i>
+                            <span>Address</span>
+                            <a href="https://www.google.com/maps/place/Ng%C3%B5+32+Phan+V%C4%83n+Tr%C6%B0%E1%BB%9Dng,+D%E1%BB%8Bch+V%E1%BB%8Dng+H%E1%BA%ADu,+C%E1%BA%A7u+Gi%E1%BA%A5y,+H%C3%A0+N%E1%BB%99i,+Vi%E1%BB%87t+Nam">32-Phan Van Truong-Cau Giay-Ha Noi-Viet Nam</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Footer Area -->

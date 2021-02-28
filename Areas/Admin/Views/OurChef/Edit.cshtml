@@ -1,0 +1,139 @@
+﻿@model webMVC1.EF.OurChefs
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("Edit", "OurChef"))
+{
+    @Html.AntiForgeryToken()
+
+
+    <div class="form-horizontal">
+        <h4>Edit OurChef</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="container">
+
+            <div class="card o-hidden border-0 shadow-lg my-5">
+                <div class="card-body p-0">
+                    <!-- Nested Row within Card Body -->
+                    <div class="row">
+                        <div class="col-lg-5 d-none d-lg-block bg-register-image"></div>
+                        <div class="col-lg-7">
+                            <div class="p-5">
+                                <div class="text-center">
+                                    <h1 class="h4 text-gray-900 mb-4">Edit OurChef!</h1>
+                                </div>
+                                <form class="user" method="post">
+                                    <div class="form-group row">
+
+                                        <div class="col-sm-6 mb-3 mb-sm-0">
+                                            @Html.LabelFor(model => model.Name)
+                                            <div class="col-md-10">
+                                                @Html.TextBoxFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+                                                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 mb-3 mb-sm-0">
+                                            @Html.LabelFor(model => model.LinkFb)
+                                            <div class="col-md-10">
+                                                @Html.TextBoxFor(model => model.LinkFb, new { htmlAttributes = new { @class = "form-control" } })
+                                                @Html.ValidationMessageFor(model => model.LinkFb, "", new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 mb-3 mb-sm-0">
+                                            @Html.LabelFor(model => model.LinkInstagam)
+                                            <div class="col-md-10">
+                                                @Html.TextBoxFor(model => model.LinkInstagam, new { htmlAttributes = new { @class = "form-control" } })
+                                                @Html.ValidationMessageFor(model => model.LinkInstagam, "", new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 mb-3 mb-sm-0">
+                                            @Html.LabelFor(model => model.LinkSwithter)
+                                            <div class="col-md-10">
+                                                @Html.TextBoxFor(model => model.LinkSwithter, new { htmlAttributes = new { @class = "form-control" } })
+                                                @Html.ValidationMessageFor(model => model.LinkSwithter, "", new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 mb-3 mb-sm-0">
+                                            @Html.LabelFor(model => model.office)
+                                            <div class="col-md-10">
+                                                @Html.TextBoxFor(model => model.office, new { htmlAttributes = new { @class = "form-control" } })
+                                                @Html.ValidationMessageFor(model => model.office, "", new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 mb-3 mb-sm-0">
+                                            @Html.LabelFor(model => model.Phone)
+                                            <div class="col-md-10">
+                                                @Html.TextBoxFor(model => model.Phone, new { htmlAttributes = new { @class = "form-control" } })
+                                                @Html.ValidationMessageFor(model => model.Phone, "", new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+                                        <hr />
+                                        <div class="col-sm-6 mb-3 mb-sm-0">
+                                            @Html.LabelFor(model => model.Image)
+                                            <div class="col-md-10">
+                                                @Html.EditorFor(model => model.Image, new { htmlAttributes = new { @class = "form-control", @type="file" } })
+                                                @Html.ValidationMessageFor(model => model.Image, "", new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+                                        <hr />
+                                        <div class="col-sm-6 mb-3 mb-sm-0">
+                                            @Html.LabelFor(model => model.Email)
+                                            <div class="col-md-10">
+                                                @Html.TextBoxFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                                                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 mb-3 mb-sm-0">
+                                            @Html.LabelFor(model => model.Address)
+                                            <div class="col-md-10">
+                                                @Html.TextBoxFor(model => model.Address, new { htmlAttributes = new { @class = "form-control" } })
+                                                @Html.ValidationMessageFor(model => model.Address, "", new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 mb-3 mb-sm-0">
+                                            @Html.LabelFor(model => model.Descripton)
+                                            <div class="col-md-10">
+                                                @Html.TextBoxFor(model => model.Descripton, new { htmlAttributes = new { @class = "form-control" } })
+                                                @Html.ValidationMessageFor(model => model.Descripton, "", new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                  
+
+                                    <input type="submit" value="Edit" class="btn btn-primary btn-user btn-block" />
+                                    <hr>
+
+                                </form>
+                                <hr>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div>
+
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+        <!-- Bootstrap core JavaScript-->
+        <script src="vendor/jquery/jquery.min.js"></script>
+        <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+        <!-- Core plugin JavaScript-->
+        <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+        <!-- Custom scripts for all pages-->
+        <script src="js/sb-admin-2.min.js"></script>
+
+
+
+
+    </div>
+}

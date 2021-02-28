@@ -1,0 +1,116 @@
+﻿@model List<webMVC1.EF.questionandanswer>
+@{
+    var ans = (List<webMVC1.EF.questionandanswer>)ViewBag.anser;
+    Layout = "~/Views/Shared/_TLayout.cshtml";
+}
+@section jsFooter{
+    <script src="/Content/User/assets/js/controller/FAQ.js"></script>
+}
+<!-- Start Page Banner -->
+<div class="page-title-area">
+    <div class="d-table">
+        <div class="d-table-cell">
+            <div class="container">
+                <div class="page-title-content">
+                    <h2>FAQ</h2>
+                    <ul>
+                        <li>
+                            <a href="/">Home</a>
+                        </li>
+                        <li>FAQ</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Page Banner -->
+<!-- Start FAQ Area -->
+<section id="faq" class="faq-area ptb-100">
+    <div class="container">
+        <div class="section-title">
+            <h2>Asked Questions</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+
+        <div class="faq-accordion">
+            <ul class="accordion">
+                @foreach (var item in ans)
+                {
+                    <li class="accordion-item">
+                        <a class="accordion-title active" href="javascript:void(0)">
+                            <i class="las la-plus"></i>
+                            @item.Question
+                        </a>
+                        <p class="accordion-content show">
+                            @item.Answer
+                        </p>
+                    </li>
+                }
+            </ul>
+        </div>
+    </div>
+</section>
+<!-- End FAQ Area -->
+<!-- Start FAQ Contact Area -->
+<div class="faq-contact-area ptb-100">
+    <div class="container">
+        <div class="section-title">
+            <h2>Do You Have Any Questions?</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+
+        <div class="faq-contact-form">
+            <form id="contactForm" method="post">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6">
+                        <div class="form-group">
+                            <input type="text" name="name" id="name" class="form-control" required data-error="Please enter your name" placeholder="Name">
+                            <div class="help-block with-errors"></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 col-md-6">
+                        <div class="form-group">
+                            <input type="email" name="email" id="email" class="form-control" required data-error="Please enter your email" placeholder="Email">
+                            <div class="help-block with-errors"></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 col-md-6">
+                        <div class="form-group">
+                            <input type="text" name="phone_number" id="phone_number" required data-error="Please enter your number" class="form-control" placeholder="Phone">
+                            <div class="help-block with-errors"></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 col-md-6">
+                        <div class="form-group">
+                            <input type="text" name="msg_subject" id="msg_subject" class="form-control" required data-error="Please enter your subject" placeholder="Subject">
+                            <div class="help-block with-errors"></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-12 col-md-12">
+                        <div class="form-group">
+                            <textarea name="message" class="form-control" id="message" cols="30" rows="6" required data-error="Write your message" placeholder="Your Message"></textarea>
+                            <div class="help-block with-errors"></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-12 col-md-12">
+                        <div class="send-btn">
+                            <button type="submit" id="btnSend" class="default-btn">
+                                Send Message
+                                <span></span>
+                            </button>
+                        </div>
+                        <div id="msgSubmit" class="h3 text-center hidden"></div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- End FAQ Contact Area -->

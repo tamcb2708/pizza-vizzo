@@ -1,0 +1,15 @@
+﻿@model List<webMVC1.EF.Menu>
+
+
+
+
+@foreach (var item in Model)
+{
+    <li class="nav-item">
+        <a href="@item.Link" class="nav-link active" target="@item.Target">
+            @item.Text
+
+        </a>
+
+    </li>
+}
