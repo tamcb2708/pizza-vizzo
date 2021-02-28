@@ -8,10 +8,10 @@ namespace webMVC1.DAO
 {
     public class ContactDao
     {
-        database db = null;
+        Model2 db = null;
         public ContactDao()
         {
-            db = new database();
+            db = new Model2();
         }
         public Contact GetByID(long id)
         {

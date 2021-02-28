@@ -12,10 +12,10 @@ namespace webMVC1.DAO
 {
     public class ProductDao
     {
-        database db = null;
+        Model1 db = null;
         public ProductDao()
         {
-            db = new database();
+            db = new Model1();
         }
         public Product ViewDetail(long id)
         {

@@ -9,10 +9,10 @@ namespace webMVC1.DAO
 {
     public class MenuDetailDao
     {
-        database db = null;
+        Model2 db = null;
         public MenuDetailDao()
         {
-            db = new database();
+            db = new Model2();
         }
         public About GetByID(long id)
         {

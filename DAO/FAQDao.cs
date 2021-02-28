@@ -8,10 +8,10 @@ namespace webMVC1.DAO
 {
     public class FAQDao
     {
-        database db = null;
+        Model7 db = null;
         public FAQDao()
         {
-            db = new database();
+            db = new Model7();
         }
         public List<questionandanswer> ListAll()
         {

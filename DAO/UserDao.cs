@@ -9,10 +9,10 @@ namespace webMVC1.DAO
 {
     public class UserDao
     {
-        database db = null;
+        Model1 db = null;
         public UserDao()
         {
-            db = new database();
+            db = new Model1();
         }
         public long Insert(User entity)
         {

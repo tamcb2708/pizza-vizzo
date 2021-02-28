@@ -8,10 +8,10 @@ namespace webMVC1.DAO
 {
     public class OderDao
     {
-        database db = null;
+        Model6 db = null;
         public OderDao()
         {
-            db = new database();
+            db = new Model6();
         }
         public long Insert(Order order)
         {

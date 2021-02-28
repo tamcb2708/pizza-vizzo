@@ -1,0 +1,223 @@
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\webMVC1.dll.config
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\webMVC1.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\webMVC1.pdb
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\Autofac.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\AWSSDK.Core.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\CKSource.CKFinder.Connector.Config.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\CKSource.CKFinder.Connector.Core.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\CKSource.CKFinder.Connector.Host.Owin.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\CKSource.CKFinder.Connector.KeyValue.FileSystem.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\CKSource.CKFinder.Connector.Logs.NLog.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\CKSource.CKFinder.Connector.WebApp.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\CKSource.FileSystem.Ftp.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\CKSource.FileSystem.Local.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\EntityFramework.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\EntityFramework.SqlServer.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\Microsoft.Web.Infrastructure.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\Newtonsoft.Json.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\PagedList.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\PagedList.Mvc.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Net.Http.Formatting.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Web.Helpers.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Web.Http.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Web.Http.WebHost.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Web.Mvc.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Web.Razor.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Web.Webpages.Deployment.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Web.Webpages.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Web.Webpages.Razor.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Threading.Tasks.Extensions.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\CKSource.FileSystem.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\ImageProcessor.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\Owin.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\Microsoft.Owin.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\NLog.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\Microsoft.Owin.Security.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Net.FtpClient.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\EntityFramework.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\EntityFramework.SqlServer.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\PagedList.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\PagedList.Mvc.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Web.Razor.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Web.Webpages.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Web.Webpages.Deployment.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Web.Webpages.Razor.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Web.Helpers.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Web.Mvc.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\Newtonsoft.Json.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Net.Http.Formatting.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Web.Http.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Web.Http.WebHost.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\obj\Debug\webMVC1.csprojAssemblyReference.cache
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\obj\Debug\webMVC1.csproj.CoreCompileInputs.cache
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\obj\Debug\webMVC1.csproj.CopyComplete
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\obj\Debug\webMVC1.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\obj\Debug\webMVC1.pdb
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\csc.exe
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\csc.exe.config
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\csc.rsp
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\csi.exe
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\csi.exe.config
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\csi.rsp
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.AppContext.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Collections.Immutable.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Console.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Globalization.Calendars.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.IO.Compression.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.IO.FileSystem.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Net.Http.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Net.Sockets.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Reflection.Metadata.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.ValueTuple.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Xml.XPath.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\vbc.exe
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\vbc.exe.config
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\vbc.rsp
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\VBCSCompiler.exe
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\roslyn\VBCSCompiler.exe.config
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\Commom.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\Commom.pdb
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\BotDetect.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\BotDetect.Web.Mvc.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Data.SQLite.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\Commom.dll.config
+D:\hoc ky 5\lap trinh web nang cao\webMVC1\bin\System.Data.SQLite.xml
+C:\Users\buich\OneDrive\Máy tính\webMVC1\obj\Debug\webMVC1.csprojAssemblyReference.cache
+C:\Users\buich\OneDrive\Máy tính\webMVC1\obj\Debug\webMVC1.csproj.CoreCompileInputs.cache
+C:\Users\buich\OneDrive\Máy tính\webMVC1\obj\Debug\webMVC1.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\obj\Debug\webMVC1.pdb
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\webMVC1.dll.config
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\webMVC1.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\webMVC1.pdb
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\csc.exe
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\csc.exe.config
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\csc.rsp
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\csi.exe
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\csi.exe.config
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\csi.rsp
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.AppContext.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Console.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.IO.Compression.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Net.Http.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.ValueTuple.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\vbc.exe
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\vbc.exe.config
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\vbc.rsp
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\VBCSCompiler.exe
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\BotDetect.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\BotDetect.Web.Mvc.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\EntityFramework.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\EntityFramework.SqlServer.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\Newtonsoft.Json.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\PagedList.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\PagedList.Mvc.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\SendGrid.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\StarkbankEcdsa.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Data.SQLite.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Net.Http.Formatting.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Web.Helpers.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Web.Http.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Web.Http.WebHost.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Web.Mvc.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Web.Razor.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Web.Webpages.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Web.Webpages.Razor.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\CKSource.FileSystem.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\ImageProcessor.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\Owin.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\Microsoft.Owin.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\NLog.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\Microsoft.Owin.Security.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Net.FtpClient.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\EntityFramework.xml
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\EntityFramework.SqlServer.xml
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\PagedList.xml
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\PagedList.Mvc.xml
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\SendGrid.pdb
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\SendGrid.xml
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Data.SQLite.xml
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Web.Razor.xml
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Web.Webpages.xml
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Web.Webpages.Razor.xml
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Web.Helpers.xml
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Web.Mvc.xml
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\Newtonsoft.Json.xml
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Net.Http.Formatting.xml
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Web.Http.xml
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\System.Web.Http.WebHost.xml
+C:\Users\buich\OneDrive\Máy tính\webMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\buich\OneDrive\Máy tính\webMVC1\obj\Debug\webMVC1.csproj.CopyComplete

@@ -9,10 +9,10 @@ namespace webMVC1.DAO
 {
     public class ContentDao
     {
-        database db = null;
+        Model2 db = null;
         public ContentDao()
         {
-            db = new database();
+            db = new Model2();
         }
   
         public Content GetByID(long id)

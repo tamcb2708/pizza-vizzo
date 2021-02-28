@@ -26,6 +26,7 @@ namespace webMVC1.EF
 
         public bool? Status { get; set; }
 
+        [StringLength(250)]
         public string DesCription { get; set; }
 
         [StringLength(50)]

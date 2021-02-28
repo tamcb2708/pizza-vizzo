@@ -9,10 +9,10 @@ namespace webMVC1.DAO
 {
     public class OurChefDao
     {
-        database db = null;
+        Model5 db = null;
         public OurChefDao()
         {
-            db = new database();
+            db = new Model5();
         }
 
         public OurChefs GetByID(long id)

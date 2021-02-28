@@ -37,7 +37,7 @@ namespace webMVC1.EF
 
         [StringLength(50)]
         public string Address { get; set; }
-
+        [StringLength(250)]
         public string Descripton { get; set; }
     }
 }

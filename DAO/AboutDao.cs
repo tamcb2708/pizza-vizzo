@@ -9,10 +9,10 @@ namespace webMVC1.DAO
 {
     public class AboutDao
     {
-        database db = null;
+        Model2 db = null;
         public AboutDao()
         {
-            db = new database();
+            db = new Model2();
         }
         public List<About> ListAbout(int top)
         {

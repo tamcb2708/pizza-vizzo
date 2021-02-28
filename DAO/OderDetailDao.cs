@@ -9,10 +9,10 @@ namespace webMVC1.DAO
 {
     public class OderDetailDao
     {
-        database db = null;
+        Model6 db = null;
         public OderDetailDao()
         {
-            db = new database();
+            db = new Model6();
         }
         public bool Insert(OderDetail detail)
         {

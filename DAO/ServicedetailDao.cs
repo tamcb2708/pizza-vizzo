@@ -8,10 +8,10 @@ namespace webMVC1.DAO
 {
     public class ServicedetailDao
     {
-        database db = null;
+        Model3 db = null;
         public ServicedetailDao()
         {
-            db = new database();
+            db = new Model3();
         }
         public List<CategoryDetail> ListAll()
         {

@@ -1,0 +1,23 @@
+D:\hoc ky 5\lap trinh web nang cao\Commom\bin\Debug\Commom.dll
+D:\hoc ky 5\lap trinh web nang cao\Commom\bin\Debug\Commom.pdb
+D:\hoc ky 5\lap trinh web nang cao\Commom\obj\Debug\Commom.csproj.CoreCompileInputs.cache
+D:\hoc ky 5\lap trinh web nang cao\Commom\obj\Debug\Commom.dll
+D:\hoc ky 5\lap trinh web nang cao\Commom\obj\Debug\Commom.pdb
+D:\hoc ky 5\lap trinh web nang cao\Commom\bin\Debug\Commom.dll.config
+D:\hoc ky 5\lap trinh web nang cao\Commom\bin\Debug\BotDetect.dll
+D:\hoc ky 5\lap trinh web nang cao\Commom\bin\Debug\BotDetect.Web.Mvc.dll
+D:\hoc ky 5\lap trinh web nang cao\Commom\bin\Debug\System.Data.SQLite.dll
+D:\hoc ky 5\lap trinh web nang cao\Commom\bin\Debug\System.Data.SQLite.xml
+D:\hoc ky 5\lap trinh web nang cao\Commom\obj\Debug\Commom.csproj.CopyComplete
+C:\Users\buich\OneDrive\Máy tính\webMVC1\Commom\bin\Debug\Commom.dll.config
+C:\Users\buich\OneDrive\Máy tính\webMVC1\Commom\bin\Debug\Commom.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\Commom\bin\Debug\Commom.pdb
+C:\Users\buich\OneDrive\Máy tính\webMVC1\Commom\bin\Debug\BotDetect.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\Commom\bin\Debug\BotDetect.Web.Mvc.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\Commom\bin\Debug\System.Data.SQLite.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\Commom\bin\Debug\System.Data.SQLite.xml
+C:\Users\buich\OneDrive\Máy tính\webMVC1\Commom\obj\Debug\Commom.csprojAssemblyReference.cache
+C:\Users\buich\OneDrive\Máy tính\webMVC1\Commom\obj\Debug\Commom.csproj.CoreCompileInputs.cache
+C:\Users\buich\OneDrive\Máy tính\webMVC1\Commom\obj\Debug\Commom.csproj.CopyComplete
+C:\Users\buich\OneDrive\Máy tính\webMVC1\Commom\obj\Debug\Commom.dll
+C:\Users\buich\OneDrive\Máy tính\webMVC1\Commom\obj\Debug\Commom.pdb

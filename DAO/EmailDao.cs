@@ -8,10 +8,10 @@ namespace webMVC1.DAO
 {
     public class emailDao
     {
-        database db = null;
+        Model8 db = null;
         public emailDao()
         {
-            db = new database();
+            db = new Model8();
         }
         public Email GetByID(int id)
         {

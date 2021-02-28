@@ -27,7 +27,6 @@ namespace webMVC1.EF
 
         [StringLength(10)]
         public string Subject { get; set; }
-
         public bool status { get; set; }
     }
 }

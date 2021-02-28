@@ -9,7 +9,8 @@ using System.Web.Script.Serialization;
 using webMVC1.EF;
 using System.Net.Mail;
 using System.Configuration;
-using Commom;
+using SendGrid.Helpers.Mail;
+//using Commom;
 
 namespace webMVC1.Controllers
 {
@@ -105,8 +106,8 @@ namespace webMVC1.Controllers
                 content = content.Replace("{{Total}}", total.ToString("N0"));
                 var toEmail = ConfigurationManager.AppSettings["ToEmailAddress"].ToString();
 
-                new MailHelper().SendMail(shipEmail, "Order from", content);
-                new MailHelper().SendMail(toEmail, "Order from", content);
+                //new MailHelper().SendMail(shipEmail, "Order from", content);
+                //new MailHelper().SendMail(toEmail, "Order from", content);
             }
             catch (Exception)
             {

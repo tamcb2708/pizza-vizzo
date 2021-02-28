@@ -11,6 +11,7 @@ namespace webMVC1.EF
     {
         public int ID { get; set; }
 
+        [Column("Email")]
         [StringLength(50)]
         public string Email1 { get; set; }
 

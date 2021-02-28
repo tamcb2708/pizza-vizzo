@@ -8,10 +8,10 @@ namespace webMVC1.DAO
 {
     public class CategoryDetailDao
     {
-        database db = null;
+        Model3 db = null;
         public CategoryDetailDao()
         {
-            db = new database();
+            db = new Model3();
         }
         public CategoryDetail GetByID(long id)
         {

@@ -8,10 +8,10 @@ namespace webMVC1.DAO
 {
     public class FeedBackDao
     {
-        database db = null;
+        Model2 db = null;
         public FeedBackDao()
         {
-            db = new database();
+            db = new Model2();
         }
         public FeedBack GetByID(long id)
         {

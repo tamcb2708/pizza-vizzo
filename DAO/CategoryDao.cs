@@ -11,10 +11,10 @@ namespace webMVC1.DAO
 {
     public class CategoryDao
     {
-        database db = null;
+        Model1 db = null;
         public CategoryDao()
         {
-            db = new database();
+            db = new Model1();
         }
         public Categorys GetByID(long id)
         {
