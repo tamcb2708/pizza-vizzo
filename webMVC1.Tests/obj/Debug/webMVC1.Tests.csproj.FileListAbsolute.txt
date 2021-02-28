@@ -1,0 +1,100 @@
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\webMVC1.Tests.dll.config
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\webMVC1.Tests.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\webMVC1.Tests.pdb
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\webMVC1.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.Http.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.Mvc.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.WebPages.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.Razor.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\webMVC1.pdb
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\webMVC1.dll.config
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.Http.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.Mvc.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.WebPages.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.Razor.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\obj\Debug\webMVC1.Tests.csprojAssemblyReference.cache
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\obj\Debug\webMVC1.Tests.csproj.CoreCompileInputs.cache
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\obj\Debug\webMVC1.Tests.csproj.CopyComplete
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\obj\Debug\webMVC1.Tests.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\obj\Debug\webMVC1.Tests.pdb
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\EntityFramework.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\EntityFramework.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\PagedList.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\PagedList.Mvc.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\PagedList.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\PagedList.Mvc.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Commom.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Commom.pdb
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\BotDetect.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\BotDetect.Web.Mvc.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Data.SQLite.dll
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Data.SQLite.xml
+D:\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Commom.dll.config
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\webMVC1.Tests.dll.config
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\webMVC1.Tests.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\webMVC1.Tests.pdb
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\BotDetect.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\BotDetect.Web.Mvc.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\PagedList.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\PagedList.Mvc.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Data.SQLite.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\webMVC1.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.Http.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\EntityFramework.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.Mvc.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Commom.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.WebPages.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.Razor.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\webMVC1.pdb
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\webMVC1.dll.config
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\PagedList.xml
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\PagedList.Mvc.xml
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Data.SQLite.xml
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.Http.xml
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\EntityFramework.xml
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.Mvc.xml
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Commom.pdb
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Commom.dll.config
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.WebPages.xml
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.Razor.xml
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\obj\Debug\webMVC1.Tests.csprojAssemblyReference.cache
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\obj\Debug\webMVC1.Tests.csproj.CoreCompileInputs.cache
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\obj\Debug\webMVC1.Tests.csproj.CopyComplete
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\obj\Debug\webMVC1.Tests.dll
+C:\trường đại học điện lực\hoc ky 5\lap trinh web nang cao\webMVC1.Tests\obj\Debug\webMVC1.Tests.pdb
